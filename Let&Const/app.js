@@ -94,7 +94,7 @@ dosmth();
 console.log(age);
 
 // const variables are immutable
-Error
+// Error
 let a;
 var b;
 const x;
